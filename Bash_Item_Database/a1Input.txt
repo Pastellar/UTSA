@@ -1,0 +1,34 @@
+c
+0001
+oj
+Orange Juice
+10
+100
+A half gallon of orange juice.
+r
+1673
+u
+9999
+no
+doesn't exist
+0
+100
+This should produce an error.
+u
+1673
+milk
+Milk (Half Gallon)
+24
+30
+A half gallon of milk.
+d
+9999
+d
+3923
+c
+0001
+no
+doesn't exist
+0
+50
+This should also produce an error.
