@@ -1,4 +1,6 @@
-This is my first website.
+# First Website
+This is my first website, which I'm creating in my Web Technologies class.
+We are using AWS and will practice HTML, CSS, and JavaScript.
 Assignments 1 - 5 explore HTML basics.
 
 ------------------------------------------------------------------------------------
