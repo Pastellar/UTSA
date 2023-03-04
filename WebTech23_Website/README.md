@@ -2,6 +2,8 @@
 This is my first website, which I'm creating in my Web Technologies class.
 We are using AWS and will practice HTML, CSS, and JavaScript.
 Assignments 1 - 5 explore HTML basics.
+Assignment 6 is my introduction to CSS and Bootstrap
+Assignment 7 is when we implement Javascript into the site
 
 ------------------------------------------------------------------------------------
 Link:   https://ec2-13-59-221-205.us-east-2.compute.amazonaws.com/
