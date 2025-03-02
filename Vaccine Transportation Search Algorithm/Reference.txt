@@ -1,0 +1,5 @@
+Djikstras shortest path:    https://benalexkeen.com/implementing-djikstras-shortest-path-algorithm-with-python/
+
+Shortest path w/ adjacency matrix: https://www.geeksforgeeks.org/printing-paths-dijkstras-shortest-path-algorithm/?ref=lbp
+
+graph traversal: https://medium.com/nerd-for-tech/graph-traversal-in-python-dijkstras-search-895c1d5aa1b1

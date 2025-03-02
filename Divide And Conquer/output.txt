@@ -1,0 +1,5 @@
+bitcoin.txt: The optimal solution for bitcoin.txt is 62922.94.
+gamestop.txt: The optimal solution for gamestop.txt is 376.86.
+largeInput.txt: The optimal solution for largeInput.txt is 499.57.
+nasdaq.txt: The optimal solution for nasdaq.txt is 10341.57.
+smallInput.txt: The optimal solution for smallInput.txt is 4.00.

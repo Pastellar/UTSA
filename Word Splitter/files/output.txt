@@ -1,0 +1,7 @@
+aliceinwonderland can be split into 3 AiW words: alice in wonderland
+suddenly can be split into 1 AiW word: suddenly
+alicee cannot be split into AiW words.
+williamwillwritewonderfulwalrus can be split into 5 AiW words: william will write wonderful walrus
+tacosaregood cannot be split into AiW words.
+tiredtinytoes can be split into 3 AiW words: tired tiny toes
+tonguetoes can be split into 2 AiW words: tongue toes
