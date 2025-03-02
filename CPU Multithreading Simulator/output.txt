@@ -1,0 +1,35 @@
+-------------------------------------------------------
+Input File Name                 : input1.txt
+CPU Scheduling Alg              : FIFO
+CPU Utilization                 : 32166.47%
+Throughput                      : 0.0002 processes / ms
+Avg. Turnaround time            : 235.08ms
+Avg. Waiting Time In R Queue    : 301.33ms
+-------------------------------------------------------
+-------------------------------------------------------
+Input File Name                 : input1.txt
+CPU Scheduling Alg              : SJF
+CPU Utilization                 : 31275.60%
+Throughput                      : 0.0002 processes / ms
+Avg. Turnaround time            : 229.15ms
+Avg. Waiting Time In R Queue    : 297.49ms
+-------------------------------------------------------
+-------------------------------------------------------
+Input File Name                 : input1.txt
+CPU Scheduling Alg              : PR
+CPU Utilization                 : 98.34%
+Throughput                      : 0.0001 processes / ms
+Avg. Turnaround time            : 309.81ms
+Avg. Waiting Time In R Queue    : 625.31ms
+-------------------------------------------------------
+-------------------------------------------------------
+Input File Name                 : input1.txt
+CPU Scheduling Alg              : RR quantum: 10
+CPU Utilization                 : 640596504.56%
+Throughput                      : 0.0000 processes / ms
+Avg. Turnaround time            : 1596.84ms
+Avg. Waiting Time In R Queue    : 6128.61ms
+-------------------------------------------------------
+
+The sorting is correct but the calculations are off. I think the way I calculated is correct, but the placement or useage of clock_gettime() is incorrect.
+If you would like to see the sorted output, uncomment lines 163 and 164 before running the program.
